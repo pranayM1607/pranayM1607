@@ -2,6 +2,8 @@
 
 ### AI Product Management Aspirant | Generative AI Enthusiast | Data Analytics Explorer
 
+🚀 **Portfolio:** https://pranaym1607portfolio.lovable.app/
+
 I'm a Computer Science & Business Systems undergraduate passionate about building AI-powered products that solve real-world problems. My interests lie at the intersection of Product Management, Generative AI, Data Analytics, and Machine Learning.
 
 I enjoy transforming ideas into practical applications, analyzing user needs, and leveraging AI to create meaningful user experiences.
@@ -60,15 +62,11 @@ Machine Learning-powered Chrome Extension that detects potentially malicious web
 
 **Tech Stack:** Python, Scikit-Learn, Flask, JavaScript, Chrome Extensions
 
----
-
 ### 📚 RAG Research Assistant
 
 Retrieval-Augmented Generation (RAG) system that enables users to upload PDFs and ask natural language questions using Google Gemini, LangChain, and FAISS.
 
 **Tech Stack:** Python, Streamlit, LangChain, FAISS, Google Gemini
-
----
 
 ### 📊 E-Commerce Customer Analytics Platform
 
@@ -76,15 +74,11 @@ Interactive analytics solution for understanding customer behavior, business per
 
 **Tech Stack:** Power BI, Python, Data Analytics
 
----
-
 ### 💬 AI Customer Feedback Analyzer
 
 AI-powered platform that analyzes customer reviews, extracts sentiment, identifies trends, and generates actionable insights.
 
 **Tech Stack:** Python, NLP, Streamlit, Gemini AI
-
----
 
 ### 📝 AI-Powered English Meeting Notes Generator
 
@@ -106,9 +100,10 @@ Generative AI application that converts meeting discussions into structured note
 
 ## 🌐 Connect With Me
 
-* GitHub: https://github.com/pranayM1607
+* Portfolio: https://pranaym1607portfolio.lovable.app/
 * LinkedIn: https://www.linkedin.com/in/pranaym1607/
-* Portfolio: Coming Soon
+* GitHub: https://github.com/pranayM1607
+* Email: [pranaym1607@gmail.com](mailto:pranaym1607@gmail.com)
 
 ---
 
